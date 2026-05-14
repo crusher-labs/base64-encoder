@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crusher-labs.github.io/base64-encoder/sitemap.xml
