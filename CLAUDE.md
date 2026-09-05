@@ -1,5 +1,7 @@
-@AGENTS.md
+# Base64 Encoder/Decoder (moved)
 
-## Notes
+This tool moved to the consolidated tools site on 2026-09-03. **Do not edit anything here.**
 
-- World page (punch card). Conventions: workspace `AGENTS.md`, `docs/design-language.md` (tools section), the atlas. Verify at 1440 and 390 with Playwright `setViewportSize` before shipping.
+- Live: <https://tools.muhammadhassaanjaved.com/base64-encoder/>
+- Source: `tools-hub` repo, `base64-encoder/index.html` (workspace path `x:/crusher-labs/repos/tools-hub/base64-encoder/`)
+- This repo serves a redirect stub only, and is kept for its history.
